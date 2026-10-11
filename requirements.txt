@@ -1,0 +1,3 @@
+# The notebooks are written against portfolio-forecast 0.4.x
+portfolio-forecast[notebook]>=0.4,<0.5
+jupyterlab
