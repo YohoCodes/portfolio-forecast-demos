@@ -10,8 +10,8 @@ history.
 | Notebook | What it does |
 | --- | --- |
 | `01_quick_start_daily.ipynb` | Quick start on daily prices: backtests a four-stock portfolio, forecasts it with all three simulators, compares their fan charts and statistical reports, and compiles a PDF report |
-| `02_intraday_sessions_and_gaps.ipynb` | Intraday sessions and gaps on hourly bars: the marks of a session, return classes and their warnings, gap and bar volatility, future marks across a weekend and a half-day, a forecast counted in sessions, and continuous mode for a 24/7 asset |
-| `03_choosing_a_simulator.ipynb` | Choosing a simulator, on a synthetic two-regime history whose true model is known, so each method can be checked against the truth |
+| `02_intraday_sessions_and_gaps.ipynb` | 🚧 Under Maintenance |
+| `03_choosing_a_simulator.ipynb` | 🚧 Under Maintenance |
 
 To read them without installing anything, open them on GitHub, which shows
 the saved outputs. Links in the notebooks point to the
