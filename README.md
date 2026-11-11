@@ -10,7 +10,7 @@ history.
 | Notebook | What it does |
 | --- | --- |
 | `01_quick_start_daily.ipynb` | Quick start on daily prices: backtests a four-stock portfolio, forecasts it with all three simulators, compares their fan charts and statistical reports, and compiles a PDF report |
-| `02_intraday_sessions_and_gaps.ipynb` | Introduction to working with intraday sessions,  |
+| `02_intraday_sessions_and_gaps.ipynb` | Introduction to working with intraday sessions: backtests a three-stock portfolio on hourly data and forecasts future returns with nonparametric simulation, forecasts BTC with regime-switching Monte Carlo |
 | `03_choosing_a_simulator.ipynb` | 🚧 Under Maintenance |
 
 To read them without installing anything, open them on GitHub, which shows
